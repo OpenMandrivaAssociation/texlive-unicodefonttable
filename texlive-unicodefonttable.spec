@@ -1,6 +1,6 @@
 Name:		texlive-unicodefonttable
 Version:	65009
-Release:	1
+Release:	2
 Summary:	A Unicode font table generator
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unicodefonttable
