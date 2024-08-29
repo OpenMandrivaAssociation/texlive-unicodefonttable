@@ -1,5 +1,5 @@
 Name:		texlive-unicodefonttable
-Version:	67066
+Version:	71477
 Release:	1
 Summary:	A Unicode font table generator
 Group:		Publishing
