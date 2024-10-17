@@ -3,7 +3,7 @@ Version:	71477
 Release:	1
 Summary:	A Unicode font table generator
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unicodefonttable
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/unicodefonttable
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unicodefonttable.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unicodefonttable.doc.r%{version}.tar.xz
